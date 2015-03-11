@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ManufacturingPlantRecipesDefs>
+  <ManufacturingPlantRecipesDef>
+    <defName>MD2VanillaRecipes</defName>
+    <recipes>
+      <li>MakeStoneBlocks</li>
+      <li>ExtractMetalFromSlag</li>
+      <li>SmeltWeapon</li>
+      <li>Make_SculptureGrand</li>
+      <li>Make_SculptureLarge</li>
+      <li>Make_SculptureSmall</li>
+      <li>CookMealSimple</li>
+      <li>CookMealFine</li>
+      <li>CookMealLavish</li>
+    </recipes>
+  </ManufacturingPlantRecipesDef>
+</ManufacturingPlantRecipesDefs>

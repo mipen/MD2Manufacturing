@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ManufacturingPlantRecipesDefs>
+  <ManufacturingPlantRecipesDef>
+    <defName>MD2DroidRecipes</defName>
+    <recipes>
+      <li>MD2MakeLogisticsDroid</li>
+      <li>MD2MakeMiningDroid</li>
+      <li>MD2MakeGrowerDroid</li>
+      <li>MD2MakeMedicDroid</li>
+      <li>MD2MakeBuilderDroid</li>
+      <li>MD2MakeCraftingDroid</li>
+      <li>MD2MakeCookingDroid</li>
+      <li>MD2MakeBasicCombatDroid</li>
+      <li>MD2MakeCrematoriusDroid</li>
+    </recipes>
+  </ManufacturingPlantRecipesDef>
+</ManufacturingPlantRecipesDefs>
