@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<AssemblyLineUpgradeDefs>
+  <AssemblyLineUpgradeDef>
+    <defName>MD2EfficiencyI</defName>
+    <label>Efficiency I</label>
+    <PropertyToAffect>Efficiency</PropertyToAffect>
+    <PercentageDecrease>0.1</PercentageDecrease>
+    <Description>Upgrade Efficiency</Description>
+    <workTicksAmount>3600</workTicksAmount>
+    <RequiredMaterials>
+      <li>
+        <thing>Steel</thing>
+        <amount>100</amount>
+      </li>
+    </RequiredMaterials>
+  </AssemblyLineUpgradeDef>
+  
+  <AssemblyLineUpgradeDef>
+    <defName>MD2EfficiencyII</defName>
+    <label>Efficiency II</label>
+    <PropertyToAffect>Efficiency</PropertyToAffect>
+    <PercentageDecrease>0.1</PercentageDecrease>
+    <Description>Upgrade Efficiency</Description>
+    <workTicksAmount>5400</workTicksAmount>
+    <RequiredMaterials>
+      <li>
+        <thing>Steel</thing>
+        <amount>120</amount>
+      </li>
+    </RequiredMaterials>
+    <Prerequisites>
+      <li>MD2EfficiencyI</li>
+    </Prerequisites>
+  </AssemblyLineUpgradeDef>
+  
+  <AssemblyLineUpgradeDef>
+    <defName>MD2EfficiencyIII</defName>
+    <label>Efficiency III</label>
+    <PropertyToAffect>Efficiency</PropertyToAffect>
+    <PercentageDecrease>0.1</PercentageDecrease>
+    <Description>Upgrade Efficiency</Description>
+    <workTicksAmount>7200</workTicksAmount>
+    <RequiredMaterials>
+      <li>
+        <thing>Steel</thing>
+        <amount>120</amount>
+      </li>
+    </RequiredMaterials>
+    <Prerequisites>
+      <li>MD2EfficiencyII</li>
+    </Prerequisites>
+  </AssemblyLineUpgradeDef>
+
+  <AssemblyLineUpgradeDef>
+    <defName>MD2EfficiencyIV</defName>
+    <label>Efficiency IV</label>
+    <PropertyToAffect>Efficiency</PropertyToAffect>
+    <PercentageDecrease>0.1</PercentageDecrease>
+    <Description>Upgrade Efficiency</Description>
+    <workTicksAmount>9000</workTicksAmount>
+    <RequiredMaterials>
+      <li>
+        <thing>Steel</thing>
+        <amount>120</amount>
+      </li>
+    </RequiredMaterials>
+    <Prerequisites>
+      <li>MD2EfficiencyIII</li>
+    </Prerequisites>
+  </AssemblyLineUpgradeDef>
+  
+  <AssemblyLineUpgradeDef>
+    <defName>MD2EfficiencyV</defName>
+    <label>Efficiency V</label>
+    <PropertyToAffect>Efficiency</PropertyToAffect>
+    <PercentageDecrease>0.1</PercentageDecrease>
+    <Description>Upgrade Efficiency</Description>
+    <workTicksAmount>10800</workTicksAmount>
+    <RequiredMaterials>
+      <li>
+        <thing>Steel</thing>
+        <amount>120</amount>
+      </li>
+    </RequiredMaterials>
+    <Prerequisites>
+      <li>MD2EfficiencyIV</li>
+    </Prerequisites>
+  </AssemblyLineUpgradeDef>
+
+</AssemblyLineUpgradeDefs>
