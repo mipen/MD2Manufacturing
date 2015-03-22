@@ -55,6 +55,7 @@
     <placeWorkers>
       <li>MD2.PlaceWorker_SingleConsole</li>
     </placeWorkers>
+    <researchPrerequisite>MD2ManufacturingPlant</researchPrerequisite>
   </ThingDef>
 
 </Buildings>
