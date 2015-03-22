@@ -38,8 +38,9 @@
       </li>
     </comps>
     <costList>
-      <Steel>200</Steel>
-      <MD2Circuitry>50</MD2Circuitry>
+      <Steel>800</Steel>
+      <MD2Circuitry>100</MD2Circuitry>
+      <Uranium>25</Uranium>
     </costList>
     <tickerType>Normal</tickerType>
     <rotatable>true</rotatable>

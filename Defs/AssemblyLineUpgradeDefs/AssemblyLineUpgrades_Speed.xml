@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <AssemblyLineUpgradeDefs>
+  
   <AssemblyLineUpgradeDef>
     <defName>MD2SpeedI</defName>
     <label>Speed I</label>
@@ -11,6 +12,10 @@
       <li>
         <thing>Steel</thing>
         <amount>100</amount>
+      </li>
+        <li>
+        <thing>MD2Circuitry</thing>
+        <amount>10</amount>
       </li>
     </RequiredMaterials>
   </AssemblyLineUpgradeDef>
@@ -25,7 +30,11 @@
     <RequiredMaterials>
       <li>
         <thing>Steel</thing>
-        <amount>120</amount>
+        <amount>200</amount>
+      </li>
+      <li>
+        <thing>MD2Circuitry</thing>
+        <amount>20</amount>
       </li>
     </RequiredMaterials>
     <Prerequisites>
@@ -43,7 +52,11 @@
     <RequiredMaterials>
       <li>
         <thing>Steel</thing>
-        <amount>120</amount>
+        <amount>300</amount>
+      </li>
+      <li>
+        <thing>MD2Circuitry</thing>
+        <amount>30</amount>
       </li>
     </RequiredMaterials>
     <Prerequisites>
@@ -61,7 +74,11 @@
     <RequiredMaterials>
       <li>
         <thing>Steel</thing>
-        <amount>120</amount>
+        <amount>400</amount>
+      </li>
+      <li>
+        <thing>MD2Circuitry</thing>
+        <amount>40</amount>
       </li>
     </RequiredMaterials>
     <Prerequisites>
@@ -79,7 +96,11 @@
     <RequiredMaterials>
       <li>
         <thing>Steel</thing>
-        <amount>120</amount>
+        <amount>500</amount>
+      </li>
+      <li>
+        <thing>MD2Circuitry</thing>
+        <amount>50</amount>
       </li>
     </RequiredMaterials>
     <Prerequisites>
