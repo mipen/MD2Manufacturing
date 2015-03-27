@@ -6,12 +6,13 @@
       <li>MakeStoneBlocks</li>
       <li>ExtractMetalFromSlag</li>
       <li>SmeltWeapon</li>
-      <li>Make_SculptureGrand</li>
-      <li>Make_SculptureLarge</li>
-      <li>Make_SculptureSmall</li>
-      <li>CookMealSimple</li>
-      <li>CookMealFine</li>
-      <li>CookMealLavish</li>
     </recipes>
+    <blackList>
+      <li>ButcherCorpseFlesh</li>
+      <li>ButcherCorpseMechanoid</li>
+      <li>ExtractMetalFromSlag</li>
+      <li>MakeStoneBlocks</li>
+      <li>SmeltWeapon</li>
+    </blackList>
   </ManufacturingPlantRecipesDef>
 </ManufacturingPlantRecipesDefs>
