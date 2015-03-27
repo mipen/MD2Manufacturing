@@ -2,11 +2,11 @@
 <ManufacturingPlantRecipesDefs>
   <ManufacturingPlantRecipesDef>
     <defName>MD2VanillaRecipes</defName>
+    <!--
     <recipes>
-      <li>MakeStoneBlocks</li>
-      <li>ExtractMetalFromSlag</li>
-      <li>SmeltWeapon</li>
+    <li></li>
     </recipes>
+    -->
     <blackList>
       <li>ButcherCorpseFlesh</li>
       <li>ButcherCorpseMechanoid</li>
