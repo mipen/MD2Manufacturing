@@ -14,7 +14,6 @@
   <!-- Control Console -->
   <ThingDef ParentName="BuildingBase">
     <defName>MD2ManufacturingControlConsole</defName>
-    <eType>BuildingComplex</eType>
     <label>control console</label>
     <description>control console.</description>
     <thingClass>MD2.ManufacturingControlConsole</thingClass>
@@ -26,7 +25,7 @@
     <fillPercent>0.7</fillPercent>
     <statBases>
       <WorkToMake>500</WorkToMake>
-      <MaxHealth>100</MaxHealth>
+      <MaxHitPoints>100</MaxHitPoints>
       <Flammability>1.0</Flammability>
     </statBases>
     <size>(3,2)</size>
