@@ -17,8 +17,11 @@
     <label>control console</label>
     <description>control console.</description>
     <thingClass>MD2.ManufacturingControlConsole</thingClass>
-    <graphicPath>Buildings/ManufacturingConsole</graphicPath>
-    <graphicClass>Graphic_Single</graphicClass>
+    <graphicData>
+      <texPath>Buildings/ManufacturingConsole</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+<drawSize>(3,2)</drawSize>
+    </graphicData>
     <altitudeLayer>Waist</altitudeLayer>
     <passability>Impassable</passability>
     <castEdgeShadows>true</castEdgeShadows>
@@ -50,7 +53,7 @@
     <filthLeaving>BuildingRubble</filthLeaving>
     <designationCategory>Production</designationCategory>
     <staticSunShadowHeight>0.3</staticSunShadowHeight>
-    <itemSurface>false</itemSurface>
+    <surfaceType>None</surfaceType>
     <placeWorkers>
       <li>MD2.PlaceWorker_SingleConsole</li>
     </placeWorkers>
