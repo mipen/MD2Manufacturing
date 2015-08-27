@@ -16,7 +16,7 @@
     <defName>MD2ManufacturingControlConsole</defName>
     <label>control console</label>
     <description>control console.</description>
-    <thingClass>MD2.ManufacturingControlConsole</thingClass>
+    <thingClass>MD2.Building_ControlConsole</thingClass>
     <graphicData>
       <texPath>Buildings/ManufacturingConsole</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -55,7 +55,7 @@
     <staticSunShadowHeight>0.3</staticSunShadowHeight>
     <surfaceType>None</surfaceType>
     <placeWorkers>
-      <li>MD2.PlaceWorker_SingleConsole</li>
+      <li>MD2.PlaceWorker_Single</li>
     </placeWorkers>
     <researchPrerequisite>MD2ManufacturingPlant</researchPrerequisite>
   </ThingDef>
